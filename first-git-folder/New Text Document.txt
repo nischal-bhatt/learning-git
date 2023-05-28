@@ -1,0 +1,1 @@
+if we have a .gitignore file in a repo, there should be a .git file too - common sense
