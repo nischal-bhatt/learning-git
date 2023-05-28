@@ -1,0 +1,7 @@
+removing the .git folder so that this folder can be put up to github
+
+when cloning from githib
+do the following
+git init
+git add -A
+git commit -m "whatever"
